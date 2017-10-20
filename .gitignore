@@ -1,0 +1,5 @@
+data/
+output/
+*.png
+*.jpg
+*.json
